@@ -7,7 +7,7 @@ Convert Classtable to iCal using Pything and Excel as data source.
 >
 > conf_classTime.json已改为安大现行上课时间标准（第1-11节）
 >
-> 有问题欢迎在此repo或源repo提issue。
+> 有问题欢迎在此repo或[源repo](https://github.com/SunsetYe66/ClasstableToIcal)提issue。
 
 ## Usage
 
